@@ -540,7 +540,6 @@ MAP (Oe)Ö
 MAP (ae)ä
 MAP (Ae)Ä
 
-
 # this one will allow "-Eltern" - Hunspell 1.1.5 bug, but CHECKSHARPS obsoletes LANG de_DE
 #LANG de_DE
 CHECKSHARPS
